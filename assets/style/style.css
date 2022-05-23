@@ -1,1 +1,12 @@
 /* BASIC STYLES HERE */
+
+.track {
+  background-color: black;
+  height: 2rem;
+
+}
+
+.track::before {
+  border-bottom: white dotted 4px;
+}
+
